@@ -102,7 +102,7 @@
 .item-block {
   display: -webkit-box;
   display: -ms-flexbox;
-  display: flex;
+  /*Took out display: flex; here*/
   margin-top: 9px;
   margin-bottom: 9px;
   margin-left: -11px;
